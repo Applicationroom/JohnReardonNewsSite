@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breaking News: John Reardon Marriage Rumors</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #222;
+            color: #fff;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        header .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 1rem;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: #fff;
+        }
+        .main-content {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .headline {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #d32f2f;
+        }
+        .article-image {
+            width: 100%;
+            height: auto;
+            margin-bottom: 1.5rem;
+        }
+        .article-section {
+            margin-bottom: 1.5rem;
+        }
+        .article-section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+            color: #444;
+        }
+        footer {
+            background-color: #222;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+        footer a {
+            color: #d32f2f;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">Canada News Report</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">News</a></li>
+                <li><a href="#">Entertainment</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        <h1 class="headline">Actor John Reardon Faces Marriage Turmoil: Insider Claims Revealed</h1>
+        <img src="placeholder.jpg" alt="John Reardon" class="article-image">
+
+        <div class="article-section">
+            <h2>Insider Confirms Marriage Clash</h2>
+            <p>According to a reliable source close to the Reardon household, tensions have risen between the actor and his spouse. While details remain private, this insider has hinted that the couple is navigating challenging times in their relationship.</p>
+        </div>
+
+        <div class="article-section">
+            <h2>No Official Statement from John Reardon</h2>
+            <p>Despite the swirling rumors, the <em>Hudson & Rex</em> star has yet to address the claims publicly. Fans are eagerly awaiting his response as speculation grows.</p>
+        </div>
+
+        <div class="article-section">
+            <h2>Background</h2>
+            <p>John Reardon has built a strong reputation in the entertainment industry, known for his talent and dedication. This recent news has taken fans by surprise, sparking widespread discussion across social media.</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Canada News Report. All rights reserved. | <a href="#">Privacy Policy</a></p>
+    </footer>
+</body>
+</html>
